@@ -1,14 +1,21 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        boolean[] s = new boolean[101];
-        for(int x:nums){
-            s[x] = true;
-        }
-        for (int i=1;;++i){
-            int x=k*i;
-            if(x>=s.length || !s[x]){
-                return x;
+        int multiple = k;
+
+        while(true){
+            boolean found = false;
+
+            for(int num:nums) {
+                if(num == multiple) {
+                    found = true;
+                    break;
+                }
             }
+            if(!found) {
+                return multiple;
+            }
+            multiple += k;
+            
         }
     }
 }
