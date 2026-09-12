@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0001-two-sum) |
 | [1929-concatenation-of-array](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
