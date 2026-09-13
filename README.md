@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0835-image-overlap](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0835-image-overlap) |
 | [1929-concatenation-of-array](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
