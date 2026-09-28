@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0835-image-overlap](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManiishPal/Leetcode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
