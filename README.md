@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
