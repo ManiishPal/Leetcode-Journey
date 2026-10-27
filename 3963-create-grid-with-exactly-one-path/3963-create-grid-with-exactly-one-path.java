@@ -1,0 +1,29 @@
+import java.util.Arrays;
+
+class Solution {
+    public String[] createGrid(int m, int n) {
+        char[][] grid = new char[m][n];
+
+        for (char[] row : grid) {
+            Arrays.fill(row, '#');
+        }
+
+        // Make the first row free
+        for (int j = 0; j < n; j++) {
+            grid[0][j] = '.';
+        }
+
+        // Make the last column free
+        for (int i = 0; i < m; i++) {
+            grid[i][n - 1] = '.';
+        }
+
+        String[] result = new String[m];
+
+        for (int i = 0; i < m; i++) {
+            result[i] = new String(grid[i]);
+        }
+
+        return result;
+    }
+}
