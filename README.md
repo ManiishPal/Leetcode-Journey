@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0835-image-overlap](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManiishPal/Leetcode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
