@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0836-rectangle-overlap) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -362,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManiishPal/Leetcode-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
