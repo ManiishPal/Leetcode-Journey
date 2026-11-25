@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0835-image-overlap](https://github.com/ManiishPal/Leetcode-Journey/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManiishPal/Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
